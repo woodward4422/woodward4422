@@ -1,8 +1,8 @@
-### 👋 Hi, I am Noah
-## 👨🏻‍💻Work
+## 👋 Hi, I am Noah
+### 👨🏻‍💻Work
 I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working on the [Shopify Ping Team](https://www.shopify.com/ping) as we innovate conversational commerce. I mainly live on the frontier of [React Native development](https://shopify.engineering/react-native-future-mobile-shopify) as I buildout exceptional high quality cross-platform products at high speeds. In my past role, I focused mainly on just iOS development with Swift. I really just love everything 🍎!
 
-## 🏂 Play
+### 🏂 Play
 In my off time, I like to also build products and pursue entrepreneurial endeavors which include:
 
 - Rethinking the gifting process to make sure nobody ever buys socks as a gift again with a mobile application
@@ -10,7 +10,7 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 - Leading mobile development for [Equip Manage](https://equipmanage.com/) which helps gyms track broken equipment, warranties, and repairs
 - In love with the game of Golf ⛳️
 
-## Current Reading
+### Current Reading
 
 - 🧠 [Wisdom of Insecurity by Alan Watts](https://www.amazon.com/Wisdom-Insecurity-Message-Age-Anxiety/dp/0307741206)
 
