@@ -10,9 +10,13 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 - Leading mobile development for [Equip Manage](https://equipmanage.com/) which helps gyms track broken equipment, warranties, and repairs
 - In love with the game of Golf ⛳️
 
+## 2021 Reading List So Far
+- 🧠 [Wisdom of Insecurity by Alan Watts](https://www.amazon.com/Wisdom-Insecurity-Message-Age-Anxiety/dp/0307741206)
+- 🚦 [Greenlights by Matthew McConaughey](https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135)
+
 ### Current Reading
 
-- 🧠 [Wisdom of Insecurity by Alan Watts](https://www.amazon.com/Wisdom-Insecurity-Message-Age-Anxiety/dp/0307741206)
+- 🚀 [Without their permission by Alexis Ohanian](https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020)
 
 
 <!--
