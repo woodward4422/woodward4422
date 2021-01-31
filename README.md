@@ -16,7 +16,7 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 
 ### Current Reading
 
-- 🚀 [Without their permission by Alexis Ohanian](https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020)
+- 🚀 [Without their Permission by Alexis Ohanian](https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020)
 
 
 <!--
