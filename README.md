@@ -17,7 +17,7 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 
 ### Current Reading
 
-- 🚀 [Obsessed: Building a brand that people love from day one](https://www.amazon.com/Obsessed-Building-Brand-People-Love/dp/0593084314/ref=sr_1_2?dchild=1&keywords=obsessed+book&qid=1613359913&sr=8-2)
+- 🚀 [Obsessed: Building a brand that people love from day one by Emily Heyward](https://www.amazon.com/Obsessed-Building-Brand-People-Love/dp/0593084314/ref=sr_1_2?dchild=1&keywords=obsessed+book&qid=1613359913&sr=8-2)
 
 
 <!--
