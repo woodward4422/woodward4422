@@ -9,6 +9,7 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 - Building out my personal website completely in React to help me learn(more on this soon!)
 - Leading mobile development for [Equip Manage](https://equipmanage.com/) which helps gyms track broken equipment, warranties, and repairs
 - In love with the game of Golf ⛳️
+- Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 21 years
 
 ## 2021 Reading List So Far
 - 🧠 [Wisdom of Insecurity by Alan Watts](https://www.amazon.com/Wisdom-Insecurity-Message-Age-Anxiety/dp/0307741206)
