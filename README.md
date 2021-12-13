@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Noah
 ### 👨🏻‍💻Work
-I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working on the [Shopify Ping Team](https://www.shopify.com/ping) as we innovate conversational commerce. I mainly live on the frontier of [React Native development](https://shopify.engineering/react-native-future-mobile-shopify) as I buildout exceptional high quality cross-platform products at high speeds. In my past role, I focused mainly on just iOS development with Swift. I really just love everything 🍎!
+I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working on the [Shopify Inbox Team](https://www.shopify.com/inbox) as we innovate conversational commerce. I mainly live on the frontier of [React Native development](https://shopify.engineering/react-native-future-mobile-shopify) as I buildout high quality cross-platform products at high speeds. In my past role, I focused mainly on just iOS development with Swift. I really just love everything 🍎!
 
 ### 🏂 Play
 In my off time, I like to also build products and pursue entrepreneurial endeavors which include:
