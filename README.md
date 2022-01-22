@@ -21,7 +21,7 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 - 🏍[Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/ref=sr_1_1?crid=B889DP37BBB7&keywords=art+of+motorcycle+maintenance&qid=1639361486&sprefix=art+of+motor%2Caps%2C164&sr=8-1)
 
 ### Current Reading
-- 🦁 [Courage is calling by Ryan Holliday](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=1B2KPECIYDEVT&keywords=courage+is+calling+ryan+holiday&qid=1642865999&sprefix=courage+is+call%2Caps%2C66&sr=8-1)
+- 🦁 [Courage is calling by Ryan Holiday](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=1B2KPECIYDEVT&keywords=courage+is+calling+ryan+holiday&qid=1642865999&sprefix=courage+is+call%2Caps%2C66&sr=8-1)
 
 
 
