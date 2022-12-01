@@ -11,21 +11,6 @@ In my off time, I like to also build products and pursue entrepreneurial endeavo
 - In love with the game of Golf ⛳️
 - Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 21 years
 
-## Finished Reading List So Far
-- 🧠 [Wisdom of Insecurity by Alan Watts](https://www.amazon.com/Wisdom-Insecurity-Message-Age-Anxiety/dp/0307741206)
-- 🚦 [Greenlights by Matthew McConaughey](https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135)
-- 🚀 [Without their Permission by Alexis Ohanian](https://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020)
-- 🎨 [Obsessed: Building a brand that people love from day one by Emily Heyward](https://www.amazon.com/Obsessed-Building-Brand-People-Love/dp/0593084314/ref=sr_1_2?dchild=1&keywords=obsessed+book&qid=1613359913&sr=8-2)
-- 👨🏻‍🎨[War of Art by Steven Pressfield](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?dchild=1&keywords=war+of+art&qid=1615933904&sr=8-1)
-- 🎳 [Finite and Infinite Games by James P. Carse](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713/ref=sr_1_1?crid=269P7QVQOZU0J&dchild=1&keywords=finite+and+infinite+games+by+james+carse&qid=1615934007&sprefix=Finite+and+%2Caps%2C162&sr=8-1)
-- 🏍[Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/ref=sr_1_1?crid=B889DP37BBB7&keywords=art+of+motorcycle+maintenance&qid=1639361486&sprefix=art+of+motor%2Caps%2C164&sr=8-1)
-- 🦁 [Courage is calling by Ryan Holiday](https://www.amazon.com/Courage-Calling-Fortune-Favors-Brave/dp/0593191676/ref=sr_1_1?crid=1B2KPECIYDEVT&keywords=courage+is+calling+ryan+holiday&qid=1642865999&sprefix=courage+is+call%2Caps%2C66&sr=8-1)
-
-### Current Reading
-- ❄️ [Cold Start Problem by Andrew Chen](https://www.amazon.com/The-Cold-Start-Problem/dp/B08MKNHSWC/ref=sr_1_1?crid=1EFIGEWG0YLMD&keywords=cold+start+problem&qid=1652813030&sprefix=cold+start+problem%2Caps%2C116&sr=8-1)
-
-
-
 <!--
 **woodward4422/woodward4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
