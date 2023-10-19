@@ -4,10 +4,6 @@ I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working
 
 ### 🏂 Play
 In my off time, I like to also build products and pursue entrepreneurial endeavors which include:
-
-- Rethinking the gifting process to make sure nobody ever buys socks as a gift again with a mobile application
-- Building out my personal website completely in React to help me learn(more on this soon!)
-- Leading mobile development for [Equip Manage](https://equipmanage.com/) which helps gyms track broken equipment, warranties, and repairs
 - In love with the game of Golf ⛳️
 - Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 21 years
 
