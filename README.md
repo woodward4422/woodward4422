@@ -5,7 +5,7 @@ I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working
 ### 🏂 Play
 In my off time, I like to also build products and pursue entrepreneurial endeavors which include:
 - In love with the game of Golf ⛳️
-- Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 21 years
+- Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 24 years
 
 <!--
 **woodward4422/woodward4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
