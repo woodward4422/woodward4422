@@ -1,11 +1,11 @@
 ## 👋 Hi, I am Noah
 ### 👨🏻‍💻Work
-I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working on the [Shopify Inbox Team](https://www.shopify.com/inbox) as we innovate conversational commerce. I mainly live on the frontier of [React Native development](https://shopify.engineering/react-native-future-mobile-shopify) as I buildout high quality cross-platform products at high speeds. In my past role, I focused mainly on just iOS development with Swift. I really just love everything 🍎!
+I am a Mobile Software Engineer📱 [@Shopify](https://www.shopify.com/) working on supporting our various mobile applications. I mainly live on the frontier of [React Native development](https://shopify.engineering/react-native-future-mobile-shopify) as I buildout high quality cross-platform products at high speeds. In my past role, I focused mainly on just iOS development with Swift. I really just love everything 🍎!
 
 ### 🏂 Play
 In my off time, I like to also build products and pursue entrepreneurial endeavors which include:
 - In love with the game of Golf ⛳️
-- Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 24 years
+- Hopelessly rooting for the Dallas Cowboys ⭐️ for the past 25 years
 
 <!--
 **woodward4422/woodward4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
